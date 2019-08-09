@@ -17,6 +17,8 @@ Spoofing Alerts in 4G LTE Networks](http://delivery.acm.org/10.1145/3330000/3326
 - [Forcing a targeted LTE Cellphone Into an Eavesdropping Network](https://www.youtube.com/watchtime_continue=1589&v=hNDChDM1hEE) 
 - [Hacking Cellular Networks](https://www.openairinterface.org/docs/workshop/3_OAI_Workshop_20170427/Session2_UE/Lin_Huan_-_UE_Security.pdf)
 - [Bye-Bye-IMSI-Catchers](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20Bye%20Bye%20IMSI%20Catchers%20-%20Security%20Enhancements%20in%205g%20-%20Lin%20Huang.pdf)
+: SUPI: Subscription Permanent Identifier
+: SUCI: Subscription Concealed Identifier
 - [New Privacy Threat on 3G, 4G, and Upcoming 5G AKA Protocols ](https://arxiv.org/pdf/1905.07617.pdf)
 - [White-Stingray: Evaluating IMSI Catchers Detection Applications](http://www.cs.ox.ac.uk/files/9192/paper-final-woot-imsi.pdf)
 - [Breaking_LTE_on_Layer_Two](https://github.com/W00t3k/Awesome-Cellular-Hacking/blob/master/breaking_lte_on_layer_two.pdf)
